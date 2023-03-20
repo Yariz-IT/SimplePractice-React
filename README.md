@@ -1,2 +1,1 @@
 # SimplePractice-React
-# SimplePractice-React
