@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: azure;
+    text-align: center;
+    margin-top: 350px;
+}
+
+.btn {
+    background-color: rgb(214, 204, 204);
+    border: none;
+    border-radius: 5px;
+    margin: 2px 7px;
+    padding: 3px 8px;
+    color:red;
+    margin-top: 10px;
+   
+}
+
+.add {
+    margin-left: 10px;
+    border: none;
+    color: #302b2b;
+    background-color: teal;
+    border-radius: 5px;
+    padding: 4px;
+    font-weight: 600;
+
+}
